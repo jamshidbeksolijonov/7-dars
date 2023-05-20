@@ -1,0 +1,201 @@
+.main-navigation{
+    
+}
+.tub{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+}
+
+.aaa{
+    display: flex;
+}
+
+.main-navigation img{
+    margin-left: 100px;
+}
+
+.main-navigation a{
+color: rgba(21, 52, 97, 1);
+text-decoration: none;
+font-size: 25px;
+font-weight: 500;
+margin: 10px;
+}
+
+.but{
+    width: 188px;
+    height: 76px;
+    border-radius: 20px;
+    left: 1519px;
+    background: #99BAED;
+    color: white;
+    border: none;
+}
+
+.ddd{
+    width: 188px;
+    height: 76px;
+    border-radius: 20px;
+    left: 1519px;
+    background: #99BAED;
+    color: white;
+    margin-top: 90px;
+    border: none;
+}
+body{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ccc>img{
+    width: 900px;
+    height: 500px;
+    margin-left: 24px;
+}
+.eee{
+font-weight: 400;
+font-size: 14px;
+line-height: 27px;
+}
+
+.aaa{
+    max-width: 90%;
+    margin-bottom: 100px;
+}
+.bbb{
+    margin-left: 100px;
+}
+.katta{
+    display: flex;
+}
+
+.ggg {
+    flex: 7;
+}
+
+.hhh {
+    flex: 5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hhh p {
+    text-align: left;
+    width: 80%;
+    margin: 15px auto 0;
+}
+
+.fff{
+    color: yellow;
+}
+
+.ggg > img{
+    /* height: 500px;  */
+    width: 100%;
+}
+.iii{
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 27px;
+    color: #153461;
+}
+
+.jjj{
+    width: 188px;
+    height: 76px;
+    border-radius: 20px;
+    background: #99BAED;
+    color: white;
+    border: none;
+    margin: 50px auto 0;
+}
+.kkk{
+    text-align: center;
+}
+
+.lll{
+    text-align: center;
+    color: yellow;
+}
+
+.mmm{
+    width: 300px;
+    background-color: #96ABFF;
+    height: 400px;
+    margin-left: 100px;
+}
+.katta2{
+    display: flex;
+    justify-content: space-between;
+    max-width: 90%;
+    
+}
+
+.nnn{
+    width: 300px;
+    background-color: #96ABFF;
+    height: 400px; 
+    
+}
+
+.ooo{
+    width: 300px;
+    background-color: #96ABFF;
+    height: 400px;
+}
+.rasm{
+    width: 103px;
+    height: 126px;
+    background-color: white;
+    margin: 50px 95px;
+}
+
+.rasm>img{
+margin: 10px 10px;
+}
+
+.rasm .mashinka{
+    margin: 25px 30px;
+}
+
+.atir{
+    width: 80px;
+}
+.lop{
+    text-align: center;
+}
+
+body {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.oxirgi{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.oxirgi .flex_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.oxirgi .flex_wrapper .box {
+    flex: 1;
+    flex-grow: 1;
+    width: 33%;
+    padding: 20px;
+}
+
+
+.box img {
+    width: 100%;
+}
